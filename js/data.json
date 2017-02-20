@@ -1,0 +1,32 @@
+[
+  {
+    "name":"Barney",
+    "shortname":"marniezzz",
+    "birthdate":"June 6, 2007",
+    "bio":"fluffy white male dogo"
+},
+{
+    "name":"June",
+    "shortname":"juniezzz",
+    "birthdate":"January 2, 2014",
+    "bio":"fluffy white female dogo"
+},
+{
+    "name":"Taj",
+    "shortname":"todd",
+    "birthdate":"July 6, 2015",
+    "bio":"Fawn male French Bulldog."
+},
+{
+    "name":"Dexter",
+    "shortname":"dexy",
+    "birthdate":"October 13, 2016",
+    "bio":"Brindle male French Bulldog"
+},
+{
+    "name":"Charlie",
+    "shortname":"chucky",
+    "birthdate":"November 27, 2013",
+    "bio":"black, white, and brown fluffy female Boston Terrier kind of"
+}
+]
